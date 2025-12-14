@@ -14,7 +14,7 @@ The assignment focuses on fundamental Data Manipulation Language (DML) operation
 ## Repository Content
 
 * **`SQL_HW1_Solution.pdf`**: Full PDF solution containing all executed SQL queries and corresponding output tables.
-* **`docs/Assignment_Instructions_1.pdf`**: Original assignment instructions.
+* **`Assignment_Instructions_1.pdf`**: Original assignment instructions.
 
 ***
 *Course: Databases (SQL), Shenkar College, IE&M*
